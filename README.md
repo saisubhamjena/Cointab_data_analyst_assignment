@@ -21,7 +21,10 @@ We were provided with five datasets: Orders, Invoice, Rates, Pincodes and SKU. W
 
 
 
-# Summary:
+# Result Summary:
+![Screenshot 2023-10-06 161243](https://github.com/saisubhamjena/Cointab_data_analyst_assignment/assets/124357451/dc210167-ec69-4e78-aff5-52ac4982205b)
+
+
 
 
 
